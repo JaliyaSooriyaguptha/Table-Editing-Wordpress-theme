@@ -1,0 +1,21 @@
+.wrap {
+    margin: 20px;
+}
+
+.wp-list-table {
+    margin-top: 20px;
+}
+
+#gold-rate-form {
+    margin-bottom: 20px;
+}
+
+#gold-rate-response {
+    margin-top: 20px;
+    font-weight: bold;
+    color: green;
+}
+
+#items-list td {
+    vertical-align: middle;
+}
